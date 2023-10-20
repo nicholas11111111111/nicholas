@@ -1,14 +1,20 @@
+
 <html>
-    <head>
-<title>SUPER XANDAO ASHURA 50CM 190 QI</title>
+  <head>
+    <title>SUPER XANDAO 50CM ASHURA 190QI</title>
   </head>
-</html>
-</BODY>
-</html>
-    <p>BAFOMEEEEEEEE</p></br>
-    </body>
-    </html>
+  <style>
+    body{
+      background-color:red;
+    }
+  </style>
+  <body>
+    <p>ESTA FUNCIONANDO</p></br>
     <hr>
+    <fieldset>
+      <legend>CADASTRAR</legend>
+      USUARIO:<input ><br<br>
+       SENHA:<input type="password" placeholder=usario
     </fieldset>
-    </body>
-<legend>CADASTRAR</legend>
+  </body>
+</html>
